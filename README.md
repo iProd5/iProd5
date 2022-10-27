@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luther W. Franklin</h1>
+[//]: # (<h1 align="center">Hi 👋, I'm L. W. Franklin</h1>)
 <div align="center">
 <i>some dev jokes :)</i></br>
 <h4><img align="center" src="https://readme-jokes.vercel.app/api?hideBorder" alt="README Jokes"></h4>
@@ -6,10 +6,6 @@
 
 - 👋 Hi, I’m @iProd5
 - 👀 I’m interested in problem solving
-
-- 📫 reach me on codingphoenix@outlook.com
-
-
 
 ### 🛠 &nbsp;Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -25,10 +21,10 @@
 ![Observability](https://img.shields.io/badge/-OBSERVABILITY-05122A?style=flat&logo=observability)
 ![DevOps](https://img.shields.io/badge/-DevOps-05122A?style=flat&logo=observability)
 
-### ⚙️ &nbsp;Statistics
-<p align="left">
-  <a href="https://github.com/icode14">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=iProd5&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=iProd5&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
+[//]: # (### ⚙️ &nbsp;Statistics)
+[//]: # (<p align="left">)
+ [//]: # ( <a href="https://github.com/icode14">)
+ [//]: # ( <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=iProd5&show_icons=true&theme=gruvbox&hide_border=true" />)
+[//]: # (  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=iProd5&theme=gruvbox&hide_border=true" />)
+[//]: # (  </a>)
+[//]: # (</p>)
